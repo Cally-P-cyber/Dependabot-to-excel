@@ -1,4 +1,10 @@
-Open excel 
+In order to retrieve the all the Dependabot scans for an organization you will need to get a personal access toke from GitHub (Classic tokens are the simplest)
+On initialization of the program you will need to run 'npm i' in your terminal to install all the dependencies
+To run the program you need to run 'node app.mjs' terminal 
+Then just follow the prompts in your terminal
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+For easy parsing of the data and removal of unnecessary columns you can do the following steps in excel
+
 Go to data tab
  Get data
   From file
